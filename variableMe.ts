@@ -13,5 +13,7 @@ userId2 = 334455.5
 // boolean
 let isLoggedIn: boolean = false;
 
+// Don't use any. It is not a good practice.
+
 // To remove the error temporally
 export { } 
